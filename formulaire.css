@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+fieldset{
+    background-color: rgba(127, 255, 212, 0.368);
+}
+.champ{
+    background-color: beige;
+}
